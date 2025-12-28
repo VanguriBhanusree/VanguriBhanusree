@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋
+I’m Bhanu
+Python | Machine Learning | Data Science
 
-<!--
-**VanguriBhanusree/VanguriBhanusree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack
+- Python
+- Machine Learning
+- Data Analysis
+- Django
+- SQL
 
-Here are some ideas to get you started:
+Projects
+- Machine Learning projects with real-world datasets  
+- Web applications using Django  
+- Data-driven problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently
+- Improving ML fundamentals
+- Building practical, deployable projects
+  
+Fun fact
+-I learn best by building and breaking code.
+
